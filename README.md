@@ -1,4 +1,4 @@
-A Simple 3 Tier Architecture Depploying a simple E-Commerce Website
+## A Simple 3 Tier Architecture Depploying a simple E-Commerce Website
 
 Create VPC with public and Private Subnets
 3 Tier Architecture with Tier 3 for Database.
