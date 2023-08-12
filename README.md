@@ -1,6 +1,6 @@
 ## A Simple 3 Tier Architecture Depploying a simple E-Commerce Website
 
-#Steps
+### Steps
 
 Create VPC with public and Private Subnets.
 3 Tier Architecture with Tier 3 for Database.
